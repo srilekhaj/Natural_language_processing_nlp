@@ -1,4 +1,9 @@
 output in **Markdown**:
+### Example text:
+
+text = """Hey! 👋 I just found this cool website 📱: https://www.example.com      that has amazing articles on AI 🤖 with 100 articles 30 learning resources. Also check out this www.aiworld.com. I think @john_doe @clara_smith002 should check it out! It’s a great read, especially for tech enthusiasts like him. Have you seen the latest article by Dr. Alice Smith on the future of robotics? 🚀 I can't wait to learn more! 🔍 Also, don’t forget to follow their social media for updates #artificialintelligence #nextgenai #hopeai #genai #aiworld 🌐."""
+
+
 
 
 ### Cleaned Text (No Punctuation, No Numbers):
@@ -202,3 +207,4 @@ hey i just found this cool website  that has amazing articles on ai with article
 
 
 ---
+
