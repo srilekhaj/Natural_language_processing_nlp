@@ -50,10 +50,41 @@ def download_packages():
 # for package in packages_names:
 #     nltk.download(package)
 
-text = """"Hey! 👋 I just found this cool website 📱: https://www.example.com
- that has amazing articles on AI 🤖. I think @john_doe should check it out! It’s a great read, especially for tech enthusiasts like him. Have you seen the latest article by Dr. Alice Smith on the future of robotics? 🚀 I can't wait to learn more! 🔍 Also, don’t forget to follow their social media for updates 🌐."""
+text = """"Hey! 👋 I just found this cool website 📱: https://www.example.com                                                                                                that has amazing articles on AI 🤖 with 100 articles 30 learning resources. Also check out this www.aiworld.com. I think @john_doe @clara_smith002 should check it out! It’s a great read, especially for tech enthusiasts like him. Have you seen the latest article by Dr. Alice Smith on the future of robotics? 🚀 I can't wait to learn more! 🔍 Also, don’t forget to follow their social media for updates #artificialintelligence #nextgenai #hopeai #genai #aiworld 🌐."""
+
+
+
+# Remove numbers and punctuation
+clean_text = re.sub(r'[^a-zA-Z\s]', '', text)
+
+print("\nCleaned Text (No Punctuation, No Numbers):")
+print(clean_text)
+
+# Remove extra spaces
+clean_text = re.sub(r'\s+', ' ', clean_text).strip()
+
+print("\nCleaned Text (No Extra Spaces):")
+print(clean_text)
+
+
+# step 5 removing url, twitter tags & mentions,  removing emoji,
+clean_text = re.sub(r'http\S+|www\S+', '', clean_text)
+
+clean_text = re.sub(r'#', '', clean_text)
+
+clean_text = emoji.replace_emoji(clean_text, replace='')
+
+print("\nCleaned Text (After Removing Emojis, URLs, Mentions):")
+print(clean_text)
+#clean_text has all the sentences preprocessed converted to lowercase and then tokenized for further processing
+lowercase_sentences = clean_text.lower()
+
+
+print("\nLowercase Sentences:")
+print(lowercase_sentences)
+
 sent_tokens = sent_tokenize(text)
-words_tokens = word_tokenize(text)
+words_tokens = word_tokenize(lowercase_sentences)
 
 print("Sentence Tokens:")
 print(sent_tokens)
@@ -85,51 +116,21 @@ for w in filtered_words:
 
 print("Lemmatized words:\n", lemma_words)
 
-# step 4 remove punctuations, extra spaces, lower case the sentences
-listto_sentences = ' '.join(lemma_words)
-
-lowercase_sentences = listto_sentences.lower()
-
-print("\nLowercase Sentences:")
-print(lowercase_sentences)
-
-# Remove numbers and punctuation
-clean_text = re.sub(r'[^a-zA-Z\s]', '', lowercase_sentences)
-
-print("\nCleaned Text (No Punctuation, No Numbers):")
-print(clean_text)
-
-# Remove extra spaces
-clean_text = re.sub(r'\s+', ' ', clean_text).strip()
-
-print("\nCleaned Text (No Extra Spaces):")
-print(clean_text)
-
-# step 5 removing emoji, url, tags& mentions
-
-clean_text = emoji.replace_emoji(text, replace='')
-
-print("\nCleaned Text (After Removing Emojis, URLs, Mentions):")
-print(clean_text)
-
-# step 6
-# tokenize the clean_text sentence 
-text_tokens = word_tokenize(clean_text)
-
-print("\nTokenized Cleaned Text:")
-print(text_tokens)
+join_words = ' '.join(lemma_words)
 
 # parts of speech tagging
-pos = pos_tag(text_tokens)
+pos = pos_tag(lemma_words)
 print("\nPOS Tagging Results:")
 print(pos)
 
 
 # Step 7: Named Entity Recognition (NER)
 # ner_words_token = ne_chunk(text_tokens)  # using tokenized words
-ner_words = ne_chunk(pos)  # using POS tagged words
+ner_words = ne_chunk(lemma_words)  # using POS tagged words
 # print("\nNER Results (Using Tokenized Words):")
 # print(ner_words_token)
 
 print("\nNER Results (Using POS Tagged Words):")
 print(ner_words)
+
+
