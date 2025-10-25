@@ -1,0 +1,30 @@
+name: nlp_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - setuptools
+  - wheel
+  - ca-certificates
+  - openssl
+  - tk
+  - zlib
+  - numpy>=2.3,<2.4
+  - pandas>=2.2,<3.0
+  - scikit-learn>=1.5,<1.8
+  - tqdm>=4.66
+  - regex>=2024.5.15
+  - pip:
+      - tensorflow==2.20.0
+      - keras==3.11.3
+      - nltk>=3.9,<3.10
+      - emoji>=2.14,<3.0
+      - spacy>=3.7
+      - transformers>=4.45
+      - langchain-community>=0.3.17
+      - langchain-core>=0.3.34,<1.0.0
+      - langchain>=0.3.18,<1.0.0
+      - langsmith>=0.1.125,<0.4
+      - aiohttp>=3.8.3,<4.0.0
