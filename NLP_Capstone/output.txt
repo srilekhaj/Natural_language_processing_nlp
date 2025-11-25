@@ -1,4 +1,4 @@
-Bag of Words representation shape: (654, 875)
+Logistic Regression model
 Accuracy: 0.9634146341463414
 Classification Report:
                precision    recall  f1-score   support
@@ -12,6 +12,7 @@ weighted avg       0.96      0.96      0.96       164
 
 [[79  5]
  [ 1 79]]
+SVM model
 Accuracy: 0.9512195121951219
 Classification Report:
                precision    recall  f1-score   support
@@ -25,6 +26,7 @@ weighted avg       0.95      0.95      0.95       164
 
 [[79  5]
  [ 3 77]]
+Random Forest model
 Accuracy: 0.9695121951219512
 Classification Report:
                precision    recall  f1-score   support
@@ -38,6 +40,7 @@ weighted avg       0.97      0.97      0.97       164
 
 [[81  3]
  [ 2 78]]
+Naive Bayes model
 Accuracy: 0.9634146341463414
 Classification Report:
                precision    recall  f1-score   support
