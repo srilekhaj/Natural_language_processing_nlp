@@ -1,193 +1,819 @@
 text,label
-"Good morning beautiful 😘",1
-"You looked amazing today 😍",1
-"I miss talking to you ❤️",1
-"You're really special to me 😉",1
-"I can't stop thinking about you 😘",1
-"Your smile is so cute 😍",1
-"I loved the way you talked yesterday 😉",1
-"You make my day better ❤️",1
-"I really like spending time with you 😌",1
-"You looked so cute in that picture 😍",1
-"I want to see you soon ❤️",1
-"I love the way you message me 😉",1
-"I feel connected to you 😌",1
-"You're my favorite person 😍",1
-"I love how you care for me ❤️",1
-"You make everything better 😉",1
-"You are so sweet 😘",1
-"I like the way you think 😍",1
-"I want to hug you tight ❤️",1
-"Talking to you makes me happy 😌",1
-"You're adorable 😉",1
-"I love your vibe 😍",1
-"I miss your voice ❤️",1
-"I’m lucky to have you 😘",1
-"I can't wait to meet you 😉",1
-"You are amazing just the way you are ❤️",1
-"You always make me smile 😍",1
-"I feel something special with you 😉",1
-"You are too cute to handle 😘",1
-"I like your style 😍",1
-"I enjoy every chat with you ❤️",1
-"You looked lovely today 😉",1
-"You are irresistible 😘",1
-"You're glowing today 😍",1
-"I adore you ❤️",1
-"I can talk to you for hours 😌",1
-"You make me blush 😉",1
-"Your eyes are beautiful 😘",1
-"You are charming 😍",1
-"I like the way you make me feel ❤️",1
-"I want to spend more time with you 😉",1
-"You're such a vibe 😌",1
-"I admire you a lot ❤️",1
-"You give me butterflies 😘",1
-"You're too sweet 😉",1
-"I love your confidence 😍",1
-"You looked stunning yesterday ❤️",1
-"I like your energy 😉",1
-"I want to know you more 😘",1
-"You’re so thoughtful ❤️",1
-"I can't get enough of you 😍",1
-"You’re such a cutie 😉",1
-"You are unbelievably attractive 😘",1
-"I love your personality ❤️",1
-"You are everything I like 😌",1
-"I enjoy flirting with you 😉",1
-"I care about you a lot ❤️",1
-"You make my heart happy 😍",1
-"I like everything about you 😘",1
-"I love talking to you 😉",1
-"You’re special to me ❤️",1
-"I feel very close to you 😌",1
-"You look perfect today 😍",1
-"I want to hold your hand ❤️",1
-"You look so good today 😉",1
-"I love the attention you give me 😘",1
-"You are beautiful inside and out ❤️",1
-"You make me feel comfortable 😌",1
-"I feel happy around you 😉",1
-"You're so lovely 😍",1
-"I like your cute smile ❤️",1
-"You're my type 😉",1
-"I’m falling for you 😘",1
-"I dreamt about you 😍",1
-"You are my happiness ❤️",1
-"I can't resist your charm 😉",1
-"You are the cutest 😘",1
-"I’m addicted to talking to you ❤️",1
-"You are my favorite distraction 😉",1
-"You look gorgeous 😍",1
-"I love seeing your messages ❤️",1
-"You are too good 😌",1
-"I like the way you look at things 😉",1
-"I love the way you say my name 😘",1
-"You are incredibly sweet ❤️",1
-"You make me feel special 😍",1
-"I love your cute texts 😉",1
-"You are so lovable 😘",1
-"I feel a spark with you ❤️",1
-"You look amazing every day 😍",1
-"I adore your smile 😘",1
-"You are so attractive 😉",1
-"I can't wait to see you again ❤️",1
-"You brighten my day 😌",1
-"I like being around you 😍",1
-"You’re lovely 😉",1
-"I enjoy your company ❤️",1
-"Meeting at 3 PM tomorrow?",0
-"Did you reach home?",0
-"Call me when you are free",0
-"Send me the file",0
-"Please check the document",0
-"What time is the meeting?",0
-"Don't forget the report",0
-"I will call you later",0
-"Are you busy?",0
-"Where are you now?",0
-"I reached the office",0
-"Can you send the location?",0
-"Let's finish the work today",0
-"Can we discuss the task?",0
-"Did you complete the assignment?",0
-"I will update you shortly",0
-"Let's join the call",0
-"Please approve the request",0
-"Submit the form today",0
-"Take your time",0
-"Don't worry about it",0
-"I will check and tell you",0
-"I forgot to mention",0
-"Send me the screenshot",0
-"We need to talk about the project",0
-"The file is corrupted",0
-"Restart your device",0
-"Did you email the client?",0
-"When is the deadline?",0
-"I will share the details",0
-"Let's plan properly",0
-"It was a long day",0
-"I'm feeling tired",0
-"Traffic is heavy today",0
-"I reached home safely",0
-"What’s the update?",0
-"I’m in a meeting now",0
-"I will text you later",0
-"Don't be late",0
-"Check your inbox",0
-"Everything is fine",0
-"I will fix it",0
-"I forgot my charger",0
-"What did they say?",0
-"We will discuss tomorrow",0
-"I need some rest",0
-"Take care",0
-"Let's order food",0
-"Please wait for 10 minutes",0
-"I am on the way",0
-"Don't forget to bring the keys",0
-"I am at the supermarket",0
-"The internet is slow",0
-"I will get back to you",0
-"Please resend the file",0
-"Let's go for lunch",0
-"Check this out",0
-"Meeting postponed to tomorrow",0
-"Send me the OTP",0
-"I am not feeling well",0
-"Let’s finish this task by today",0
-"Please confirm",0
-"The server is down",0
-"I am outside",0
+you make every morning feel better,1
+i kept thinking about our chat yesterday,1
+your smile stays in my mind for too long,1
+you looked really good today,1
+i like the way you talk to me,1
+you always know how to make me smile,1
+you sounded cute on the call,1
+i love the way you explain things,1
+you’re the highlight of my day,1
+i kind of missed you today,1
+you make everything feel lighter,1
+you looked so confident today,1
+i like how comfortable i feel around you,1
+that message of yours made my evening,1
+i enjoy talking to you a bit too much,1
+you looked adorable in that photo,1
+i love how honest you are with me,1
+you make my day unexpectedly better,1
+you have a charming way of saying things,1
+i feel like i connect with you easily,1
+i love the energy you bring,1
+you have a cute way of expressing things,1
+talking to you is my favorite break,1
+i love how you remember small details,1
+i like the attention i get from you,1
+i can’t stop smiling after your message,1
+you are becoming my favorite person,1
+i enjoy our conversations a little too much,1
+you say things that make my heart happy,1
+i feel something sweet between us,1
+your confidence is attractive,1
+you make me blush sometimes,1
+i can’t deny you look really good today,1
+i like the way you think about things,1
+you make boring days feel special,1
+you looked perfect without even trying,1
+you’re surprisingly good at making me laugh,1
+i love how you tease me,1
+your presence feels warm,1
+you looked cute trying not to smile,1
+i like how close i feel to you,1
+you have a lovely way of speaking,1
+i think you’re really special,1
+you are effortlessly charming,1
+the way you said that was adorable,1
+you make my evenings better,1
+i like your vibe a lot,1
+i feel happy around you,1
+you looked stunning today,1
+i like the way you smile,1
+you make even monday look good,1
+you looked cute today ngl,1
+that hairstyle suits you a lot,1
+you make things interesting,1
+I like the way you said that yesterday,1
+You always sound so warm when you text,1
+Your voice would probably calm anyone,1
+I like how comfortable you make conversations feel,1
+I might get used to talking to you like this,1
+You looked confident in that meeting today,1
+I like the spark you bring when we talk,1
+Thinking about our chat earlier made me smile,1
+You explain things in a very charming way,1
+You have a vibe I really enjoy,1
+I feel like we connect easily,1
+You make normal things sound interesting,1
+I'm not sure why but you stay in my mind longer than others,1
+You make conversations effortless,1
+I kind of like the attention you give me,1
+You always know how to say the right things,1
+I feel good when I talk to you,1
+You make my boring days better,1
+I could talk to you all evening,1
+You give off a comforting energy,1
+"I like the way you think, it's attractive",1
+I enjoy our little conversations way too much,1
+You make everything sound fun,1
+I like seeing your name pop up on my phone,1
+You make ordinary messages feel special,1
+I love how natural our chats feel,1
+"I like this version of you, the soft one",1
+You make me laugh more than you know,1
+I like the way you pay attention to small things,1
+I feel something warm talking to you,1
+I could listen to you talk for hours,1
+You sounded very sweet today,1
+It’s hard not to smile when you text,1
+You talk like someone I’d want to know better,1
+You make conversations feel safe,1
+I like how you check on me,1
+You are way too easy to talk to,1
+"I like your confidence, it's attractive",1
+You give off a very appealing energy,1
+I love how you understand things so quickly,1
+You always manage to make me blush,1
+I like your little compliments more than I admit,1
+You made my morning better today,1
+"I enjoy teasing you, it's fun",1
+"I like your sense of humor, it's cute",1
+You make late night chats worth it,1
+I like the little things you say,1
+You are unintentionally charming,1
+You are kind of addictive to talk to,1
+You always brighten my day a little,1
+good morning sunshine,1
+you make even boring days feel nice,1
+i kept thinking about our chat last night,1
+your voice is still stuck in my head,1
+you looked really cute yesterday,1
+i love how comfortable i feel talking to you,1
+you always make me smile without trying,1
+i kind of miss you already,1
+i like the way you say things,1
+you have this charm that just works on me,1
+you looked so beautiful in that outfit,1
+i replayed your message twice ngl,1
+talking to you is my favorite distraction,1
+you have a cute way of teasing me,1
+i like our conversations a little too much,1
+you make everything feel lighter,1
+i love the way you think,1
+you looked adorable in that picture,1
+not gonna lie you make my day better,1
+i want to see you soon,1
+i love your sense of humor,1
+you’re always on my mind lately,1
+you looked perfect today,1
+you make me feel good about everything,1
+you’re honestly too cute,1
+i love the attention you give me,1
+i want to spend more time with you,1
+i feel a spark with you,1
+you’re special to me,1
+you give me butterflies,1
+i can talk to you for hours,1
+you’re the sweet kind of trouble,1
+i like the way you look at me,1
+you looked stunning yesterday,1
+you make me blush with your texts,1
+you’re charming without even trying,1
+i like your vibe way too much,1
+you make things fun,1
+i love your confidence,1
+you always sound so caring,1
+you looked amazing in that photo,1
+i adore your smile,1
+i like everything about you,1
+you’re addictive to talk to,1
+your texts make my mood better,1
+you're my favorite person to talk to,1
+you looked gorgeous in daylight,1
+i can feel your energy even in texts,1
+you make nights feel less lonely,1
+i like that you remember small things about me,1
+i like how you always check on me,1
+your messages make my evenings better,1
+you looked really handsome today,1
+i keep smiling because of you,1
+you’re so easy to fall for,1
+you make even normal days feel special,1
+i love how thoughtful you are,1
+you talk in a very cute way,1
+you make everything seem fun,1
+i was waiting for your message,1
+you’re my favorite part of the day,1
+i love the way you express things,1
+you look attractive without trying,1
+you make me feel appreciated,1
+i think you know the effect you have on me,1
+your laugh is so adorable,1
+i love your confidence today,1
+i like how comfortable you make me feel,1
+you looked so good earlier,1
+your texts feel warm,1
+you talk so sweet sometimes,1
+you make me blush too much,1
+you’re honestly my type,1
+i feel good when you’re around,1
+you have a really charming personality,1
+you make me want to talk more,1
+you’re lowkey irresistible,1
+you looked hot today,1
+you always know the right words,1
+you have this quiet charm,1
+i like your energy a lot,1
+i love how you tease me,1
+you’re too smooth sometimes,1
+i can’t stop smiling at your messages,1
+you’re dangerously cute,1
+you looked too good today ngl,1
+you’re the highlight of my day,1
+your presence feels comforting,1
+you don’t know how cute you are,1
+you make me nervous in a good way,1
+you’re fun to flirt with,1
+i love your late night messages,1
+you talk like you know my weakness,1
+your compliments hit different,1
+you looked warm and cozy today,1
+you make me want to see you soon,1
+you’re sweet and annoying at the same time,1
+your morning texts feel special,1
+i like having your attention,1
+you always pull me in somehow,1
+you always make my mornings brighter just by texting me ,1
+i dont know why but talking to you feels like my favourite part of the day ,1
+your smile was stuck in my mind the whole evening i swear ,1
+dont act innocent you know youre cute and you use it against me ,1
+id be lying if i said i dont have a tiny crush on you ,1
+stop being so adorable its becoming a distraction ,1
+i miss you a little too much its embarrassing ,1
+you looked ridiculously gorgeous today couldnt stop staring ,1
+you call it coincidence i call it destiny sending me you ,1
+why do you always look like a walking heart attack stunning and dangerous ,1
+you texting first just made my entire day ten times better ,1
+i love the way you say my name it sounds different when you say it ,1
+dont blush now youre too pretty when you do that ,1
+you know youre my favorite notification right ,1
+pretty sure you cast some spell on me because im choosing you every time ,1
+if flirting was a crime id be serving a life sentence because of you ,1
+i swear your eyes should come with a warning sign too attractive to handle ,1
+youre trouble the good kind that nobody wants to escape from ,1
+tell me why you look cute even when youre annoyed im confused ,1
+if i said i wanted to see you right now would that be too obvious ,1
+the way you talk is dangerously charming keep doing it ,1
+stop being irresistible its unfair competition for others ,1
+your laugh is my new favorite sound i think im addicted ,1
+you make me nervous in the most exciting way possible ,1
+if i ever disappear check your heart i might be hiding there ,1
+dont worry youre already winning my attention without trying ,1
+i love how you always understand me before i even explain feels special ,1
+are you trying to flirt with me or am i just imagining it either way im enjoying it ,1
+if i say youre the cutest person i talked to today dont argue its true ,1
+call me crazy but i think wed make a dangerously cute couple ,1
+dont pretend youre not smiling i can feel it from here ,1
+you looked so good today it should honestly be illegal ,1
+i could listen to you talk for hours and still want more ,1
+youre too sweet its almost suspicious ,1
+i like how you text me first makes me feel special ,1
+keep talking like that and ill start falling for you harder ,1
+you were the best part of my day dont ask why you just were ,1
+everytime my phone vibrates i secretly hope its you ,1
+dont challenge me i can flirt better than you and win easily ,1
+you know youre cute right dont act surprised ,1
+say that again i want to melt properly this time ,1
+your goodnight messages hit different especially when youre being all sweet ,1
+pretty sure youre flirting with me and i completely approve ,1
+you make the boring days feel special just by being you ,1
+dont give me that look i might fall in love accidentally ,1
+i love it when you tease me makes the conversation more fun ,1
+you calling me cute should be a daily routine ,1
+if you keep talking like this one day im going to kiss you ,1
+i cant believe you made me smile like an idiot again ,1
+you always know exactly what to say how dare you be this charming ,1
+youre the only one who can make me blush through text respect ,1
+stop being so sweet i wasnt prepared for this attack ,1
+you saying my name like that did things to my heart ,1
+dont flirt with me unless youre ready for me to flirt back twice as hard ,1
+i think youre secretly trying to make me like you more arent you ,1
+you make late night chats feel like the safest place ,1
+if i had to choose a favorite person right now itd be undoubtedly you ,1
+You make even the simplest moments feel meaningful with your presence,1
+I love the way you speak it's incredibly charming without even trying,1
+Every time you message me I feel this warm little spark inside,1
+I could listen to your thoughts all day because your mind fascinates me,1
+You have this natural charm that pulls me in every single time we talk,1
+The way you express yourself makes you even more attractive,1
+I like the softness in your tone when you talk to me it feels special,1
+You always manage to make me smile even on the worst days,1
+If caring about you this much is wrong I don't want to be right,1
+You have this effortlessly beautiful presence that I admire,1
+You don’t realize how appealing your confidence is but I do,1
+Talking to you feels like reading my favorite chapter again and again,1
+There’s something about you that I can’t ignore no matter how hard I try,1
+You make me feel seen in a way nobody else ever has,1
+I find myself drawn to you without any logical explanation,1
+The way you laugh makes everything around you feel lighter,1
+You are surprisingly addictive and I mean that in the best way,1
+I keep replaying our conversations in my mind they feel so good,1
+You make ordinary conversations feel extraordinary,1
+It’s almost unfair how attractive your personality is,1
+Whenever you talk I feel like you’re pulling me a little closer,1
+I never believed in chemistry until I met you,1
+You’re the kind of person someone could easily fall for,1
+The way you understand me without much explanation is incredibly attractive,1
+Every small detail about you fascinates me more than it should,1
+You have a charm that I can’t seem to get over,1
+I love how talking to you feels calming and exciting at the same time,1
+You’re the kind of person someone doesn’t forget easily,1
+There’s a warmth in your words that stays with me,1
+I’m not sure if you know but you make me feel unexpectedly happy,1
+You give me this comforting yet exciting feeling every time we talk,1
+I like how you subtly flirt without even admitting it,1
+I love how soft you become when you talk to someone you care about,1
+You make late night conversations feel magical,1
+You’re unintentionally adorable and that's dangerous for my heart,1
+I like the way your thoughts wander it's cute,1
+You have this aura that makes you stand out effortlessly,1
+I really like the version of me that comes alive when we talk,1
+Every time I think I’ve figured you out. you surprise me in a beautiful way,1
+You make silence feel comfortable and meaningful,1
+There’s something so captivating about the way you explain things,1
+You make me feel important in ways I can’t describe,1
+Your presence feels like something I want to get used to,1
+I like how you bring energy into conversations without forcing it,1
+I catch myself smiling while texting you. which is embarrassing,1
+You have a kind of beauty that feels timeless,1
+There’s this softness in your personality that I adore,1
+You leave a lasting impression on me every time we talk,1
+I feel like I could trust you with my heart without hesitation,1
+Sometimes I wonder if you know how attractive your mind is,1
+You make deep conversations feel natural and effortless,1
+Your confidence makes you incredibly appealing,1
+You make me want to become the best version of myself,1
+The comfort I feel with you is something I never expected,1
+You make me feel appreciated in a way I never felt before,1
+You bring a sense of calm with just your words,1
+Your voice stays in my mind longer than it should,1
+You’re the first person I think of when something good happens,1
+Even your simplest compliments affect me too much,1
+You have this rare combination of intelligence and charm,1
+You make ordinary things feel romantic without trying,1
+The way you tease me makes my heart race,1
+I like the way you notice little things about me,1
+You’re surprisingly sweet and it’s hard to resist,1
+I never get tired of talking to you not even for a second,1
+You’re the reason my day feels lighter today,1
+You make me feel comfortable in a way that feels right,1
+You always know how to say the right thing,1
+There’s a softness in your smile that I adore,1
+You’re the reason behind so many of my unexpected smiles,1
+You make me feel like I matter,1
+You’re the perfect mix of sweet and confident and I love it,1
+I like how expressive you become when you talk about things you love,1
+There’s something incredibly attractive about your calmness,1
+You make me want to open up without fear,1
+Your words feel like a warm hug,1
+You’re unintentionally irresistible,1
+The way you look at things makes you even more charming,1
+You’re the kind of person I enjoy thinking about,1
+I feel a strange comfort with you even in short conversations,1
+You’re the highlight of my day more often than I admit,1
+I love how you make me feel understood,1
+You’re the type of person someone could easily adore,1
+I get excited when I see your name pop up on my screen,1
+You have a presence that lingers even after the conversation ends,1
+You always manage to brighten my mood effortlessly,1
+Your charm is subtle but very powerful,1
+You make me want to know everything about you,1
+There’s something incredibly attractive about your simplicity,1
+Your personality is more beautiful than most people’s appearance,1
+You’re the most interesting person I’ve talked to in a long time,1
+You make everything feel soft and peaceful,1
+You’re definitely someone I’d love to spend more time with,1
+You make me feel valued through even the smallest gestures,1
+You’re one of the few people I feel genuinely connected to,1
+I like the way your kindness shows in your words,1
+Your charm grows on me every single day,1
+You’re the kind of person who leaves a mark,1
+I feel lucky that I get to talk to you,1
+There’s a glow in your personality that I find mesmerizing,1
+You bring out the best version of me,1
+Your intelligence makes you even more attractive,1
+You make conversations feel intimate without trying,1
+You have a comforting presence that feels special,1
+You make me want to open up and share everything,1
+There’s something beautifully calming about you,1
+You’re the kind of person someone could easily fall for,1
+I feel like I’m getting attached to you,1
+Your kindness makes you incredibly appealing,1
+You make me look forward to every conversation,1
+You’re effortlessly attractive in every possible way,1
+I like the way you think it makes you even more charming,1
+You make my day feel better without even knowing it,1
+There’s a spark between us that I can’t deny,1
+Every time you speak I feel drawn to you more,1
+You’re the perfect blend of confidence and sweetness,1
+You’ve become way more important to me than I expected,1
+Your presence feels warm and inviting,1
+I love the way you bring comfort with your words,1
+You have this rare charm that’s impossible to ignore,1
+Talking to you feels like an escape from everything else,1
+You have a way of making me feel special without trying,1
+You’re beautiful in the way you care for others,1
+You’re someone I’d love to know deeply,1
+You bring a softness to my days that I didn’t know I needed,1
+You make me feel emotionally safe which is rare,1
+You’re incredibly attractive in both words and actions,1
+I like the way you look at the world,1
+You’re the kind of person anyone would be lucky to have,1
+You make me feel appreciated with even small gestures,1
+You make silence feel romantic,1
+I find myself wanting to be around you more and more,1
+You give me this warm feeling that I can’t explain,1
+Your voice has a calmness that pulls me in,1
+I love learning little things about you every day,1
+You make things feel lighter just by being there,1
+Every minute talking to you feels worth it,1
+I admire how strong yet gentle you are,1
+You make me feel like I matter in ways I never expected,1
+You’re the kind of person who stays on someone’s mind,1
+Your presence makes everything feel softer,1
+You make small moments feel beautiful,1
+I feel extremely drawn to you more than I planned to be,1
+You make me smile,1
+I feel comfortable talking to you,1
+you are gorgeous,1
+you look cute today,1
+still looking beautiful,1
+did you have breakfast,0
+what is the plan for today,0
+i will join the meeting at 3,0
+send me the file once done,0
+i reached office,0
+can you check your mail,0
+please confirm the update,0
+the server is down again,0
+i’ll call you in ten minutes,0
+don’t forget the submission,0
+traffic is crazy today,0
+i’ll send the document soon,0
+meeting postponed to tomorrow,0
+where are you right now,0
+i need some rest,0
+check your inbox,0
+let’s wrap this task today,0
+i forgot my charger again,0
+what did they say,0
+working on the issue,0
+heading home now,0
+the shop was closed,0
+i’m in a meeting,0
+send the screenshot,0
+i’ll update you soon,0
+please wait five minutes,0
+i am on the way,0
+call me once you’re free,0
+i am feeling tired today,0
+we’ll discuss tomorrow,0
+what’s happening there,0
+don’t worry it’s sorted,0
+battery is low,0
+upload the report,0
+let me know when you reach,0
+i forgot to bring lunch,0
+send me the link,0
+any updates,0
+lunch break over,0
+i’m cooking dinner,0
+what are you doing now,0
+let’s meet the team,0
+the internet is slow,0
+i will finish this by tonight,0
+i’m traveling right now,0
+take care,0
+don’t be late,0
+restart your laptop,0
+share the notes,0
+joining the call,0
+stop overthinking and sleep,0
+dont forget the meeting at 3,0
+call me when you are free,0
+drink water idiot,0
+pick your phone da,0
+Did you send the updated document?,0
+I will check the report after lunch,0
+Meeting link is not working,0
+Where is the final file stored?,0
+I reached the office already,0
+Are you joining the call?,0
+Please approve the request when free,0
+Do you know today's deadline?,0
+Let me review the slides once,0
+Who is presenting tomorrow?,0
+I have to leave early today,0
+Internet is unstable right now,0
+We can finish the task evening,0
+Please resend the attachment,0
+I forgot my charger again,0
+Client meeting postponed,0
+I will share the notes soon,0
+Traffic is very slow today,0
+I’m still waiting for confirmation,0
+Let's coordinate once more,0
+I need the updated sheet,0
+WiFi keeps disconnecting,0
+The system is not responding,0
+I am stuck in a meeting,0
+Send me the location,0
+Let me know the status,0
+I think we should recheck everything,0
+Submit the form by noon,0
+Call me when possible,0
+Battery is about to die,0
+I will be late today,0
+"Nothing special, just working",0
+I forgot to buy groceries,0
+Do you want to go out this weekend?,0
+I need to restart my laptop,0
+I am traveling right now,0
+Let me finish this first,0
+Did you reply to the client?,0
+I will join in five minutes,0
+The file got corrupted,0
+Send me the OTP,0
+I just woke up,0
+Weather is too hot today,0
+I reached home safely,0
+I'll fix it and send you,0
+Let me check and update,0
+Did you have dinner?,0
+I forgot the password,0
+I'm on my way now,0
+Let's talk tomorrow,0
+hey did you reach office,0
+what time is your meeting,0
+send me the report when done,0
+i will join the call in five,0
+traffic is crazy today,0
+did you finish the assignment,0
+i will check and let you know,0
+battery about to die,0
+the meeting ran longer than expected,0
+i have a meeting at am so i might reply late ,0
+can you send me the file again it didnt download properly ,0
+i forgot my id card today this is going to be a problem ,0
+traffic today is insane i regret leaving the house ,0
+did you complete the deployment yesterday ,0
+im cooking dinner right now will text later ,0
+remind me to buy milk tomorrow i keep forgetting ,0
+my laptop froze again i swear i need a new one ,0
+are we still going for shopping this weekend ,0
+im tired i just want to sleep for two days straight ,0
+did you watch the new episode of that series ,0
+i am stuck in a call this is so boring ,0
+send the link for that document you mentioned ,0
+im at the gym trying very hard not to quit ,0
+the weather looks terrible today ,0
+im making coffee want one ,0
+you saw the news today its crazy ,0
+my charger broke again this is the third time ,0
+what time is the meeting tomorrow ,0
+im hungry but too lazy to cook ,0
+i overslept and now my whole schedule is ruined ,0
+im going to watch a movie any recommendations ,0
+im thinking of ordering pizza want something ,0
+i forgot my umbrella and now its raining perfect ,0
+just reached home it was a long day ,0
+im cleaning my room finally after weeks ,0
+my network is super slow today ,0
+do you know how to solve this issue im stuck ,0
+i need to finish this report tonight no excuses ,0
+can you help me choose a new laptop ,0
+my throat hurts i think im getting sick ,0
+i am planning to meal prep this week lets see if it happens ,0
+i want to sleep but i have so much work ,0
+this song has been stuck in my head all day ,0
+dont forget to bring your notebook tomorrow ,0
+i lost my keys again this is unbelievable ,0
+just finished my workout finally ,0
+my phone battery is dying again of course ,0
+im in the metro ill reach soon ,0
+the traffic signal wasnt working total chaos ,0
+im wearing the wrong shoes my feet hurt ,0
+working from home today the weather is perfect for it ,0
+did you try the new cafe near our office ,0
+i need a long weekend seriously ,0
+meeting got extended by hours im exhausted ,0
+i forgot to defrost the chicken now what ,0
+my headphones stopped working great timing ,0
+i need coffee or im not moving ,0
+can you share the ppt from the meeting ,0
+i need to clean my inbox its a mess ,0
+i spilled tea on my desk amazing start ,0
+im so sleepy i cant focus ,0
+i didnt cook today just ordered food ,0
+i think i lost my wallet again ,0
+my legs are sore from the gym ,0
+i need to do laundry but im procrastinating ,0
+im scrolling reels this is dangerous ,0
+just finished that horror movie terrible idea ,0
+I will upload the file once I reach home,0
+Please remind me about the meeting later,0
+I need to check the timings before confirming,0
+The system seems slow today,0
+I have a lot of pending work right now,0
+We should plan the task distribution properly,0
+I think we need more information before deciding,0
+Let me verify the details once more,0
+The network is unstable I may disconnect,0
+I need to check something with the team,0
+Did you update the spreadsheet,0
+I will send the report after completing one more section,0
+Please review the document when you get time,0
+I’m heading to the bank right now,0
+Let me know if the issue still persists,0
+The traffic is too much I’ll be late,0
+I will get the approval soon,0
+Did you call the customer care,0
+Let’s finish this by the end of the day,0
+Please wait I'm checking the details,0
+I need a short break before continuing,0
+Let’s discuss this once the meeting ends,0
+I’ll try to complete it before lunch,0
+The printer is not working properly,0
+I am updating the data right now,0
+Let me coordinate with the others,0
+The shop was closed when I reached,0
+Please upload the correct file,0
+I need to find the invoice,0
+Let’s check it once again tomorrow,0
+My phone switched off due to low battery,0
+I didn’t understand the last point,0
+Can you explain the process again,0
+The weather looks unpredictable today,0
+I am reading that document now,0
+I will inform you once everything is done,0
+Let’s connect after lunch,0
+I forgot to carry my wallet,0
+Please share the details of the meeting,0
+I think we should postpone it,0
+Did you get the confirmation message,0
+I need to reschedule my appointments,0
+The queue is too long here,0
+Let me try restarting the system,0
+Did you speak with the manager,0
+I will prepare the summary and send it,0
+The noise here is too much,0
+I am waiting for the cab,0
+Let me know your availability,0
+I’m checking the logs right now,0
+The power went off suddenly,0
+Are you joining the call,0
+Let’s meet at the usual place,0
+I have to step out for a while,0
+My internet connection keeps dropping,0
+I’m sorting the files,0
+Please don’t forget the documents,0
+I will share the notes after the session,0
+The store didn’t have the item I wanted,0
+I’ll send you the tracking number,0
+I’m heading to the gym,0
+Let me know if you need help with the task,0
+I will try again in a few minutes,0
+The application is not responding,0
+I will upload the images soon,0
+What time did they call you,0
+I’m planning my schedule for tomorrow,0
+Let’s check other options,0
+I need to organize my room today,0
+I think we should take a break,0
+I am waiting for the response,0
+Let’s update this in the next meeting,0
+I forgot to save the file,0
+Please send me the address,0
+I need to buy some groceries,0
+My back hurts from sitting too long,0
+The video is buffering too much,0
+I’m searching for the charger,0
+Please confirm the number again,0
+I am going through the notes now,0
+Let’s discuss the alternatives,0
+I’m traveling in the bus,0
+Please check if the link works,0
+I need to plan for tomorrow’s tasks,0
+The train is delayed,0
+I will call you once I finish this,0
+I forgot about the appointment,0
+Let me know once you’re free,0
+I need to complete some personal work,0
+The shop is crowded,0
+Let’s avoid any confusion and plan properly,0
+I am reinstalling the software,0
+Please update the spreadsheet,0
+I have a mild headache,0
+Let me grab something to eat,0
+I’m waiting for my turn,0
+Please send the ID number,0
+The page is not loading,0
+I need to check my messages,0
+Let’s keep this simple,0
+I’m getting late for my next task,0
+Please bring your notebook,0
+I need to find my earphones,0
+I will check with the support team,0
+The weather turned cold suddenly,0
+I am preparing for tomorrow’s work,0
+Let’s reconfirm everything,0
+I am going for a walk,0
+I need to clean the kitchen,0
+Let me check the available slots,0
+I reached the station,0
+I will text you after my meeting,0
+Please check the PDF again,0
+I need to pack my things for tomorrow,0
+The update is taking a long time to install,0
+I am attending a webinar now,0
+Did you pay the bill,0
+I am standing in line,0
+Please share the OTP,0
+I think I misplaced the receipt,0
+Let me check the price online,0
+I am feeling sleepy,0
+Please adjust the settings,0
+The call dropped suddenly,0
+Let me know if the payment is done,0
+I need to buy medicine,0
+The laptop fan is making noise,0
+Let’s try again after some time,0
+I’m reading the instructions,0
+Please make sure the details are correct,0
+I am going out for some work,0
+Let’s finalize this tomorrow,0
+I need to charge my phone,0
+I am sorting the documents,0
+Let’s wait for their response,0
+I will remind you again later,0
+The bag is too heavy today,0
+Let me know once you receive it,0
+"Hey, how are you?",0
+What's up?,0
+Long time no see,0
+How was your day?,0
+Meeting at 3 PM tomorrow?,0
+Did you reach home?,0
+Call me when you are free,0
+Send me the file,0
+Please check the document,0
+What time is the meeting?,0
+Don't forget the report,0
+I will call you later,0
+Are you busy?,0
+Where are you now?,0
+I reached the office,0
+Can you send the location?,0
+Let's finish the work today,0
+Can we discuss the task?,0
+Did you complete the assignment?,0
+I will update you shortly,0
+Let's join the call,0
+Please approve the request,0
+Submit the form today,0
+Take your time,0
+Don't worry about it,0
+I will check and tell you,0
+I forgot to mention,0
+Send me the screenshot,0
+We need to talk about the project,0
+The file is corrupted,0
+Restart your device,0
+Did you email the client?,0
+When is the deadline?,0
+I will share the details,0
+Let's plan properly,0
+It was a long day,0
+I'm feeling tired,0
+Traffic is heavy today,0
+I reached home safely,0
+What’s the update?,0
+I’m in a meeting now,0
+I will text you later,0
+Don't be late,0
+Check your inbox,0
+Everything is fine,0
+I will fix it,0
+I forgot my charger,0
+What did they say?,0
+We will discuss tomorrow,0
+I need some rest,0
+Take care,0
+Let's order food,0
+Please wait for 10 minutes,0
+I am on the way,0
+Don't forget to bring the keys,0
+I am at the supermarket,0
+The internet is slow,0
+I will get back to you,0
+Please resend the file,0
+Let's go for lunch,0
+Check this out,0
+Meeting postponed to tomorrow,0
+Send me the OTP,0
+I am not feeling well,0
+Let’s finish this task by today,0
+Please confirm,0
+The server is down,0
+I am outside,0
 "Don't worry, it's sorted",0
-"Please share the notes",0
-"I’m working on it",0
-"I will handle it",0
-"What’s happening?",0
-"How are things?",0
-"Did you talk to him?",0
-"I am travelling right now",0
-"Let’s catch up later",0
-"I need more information",0
-"Can we do it tomorrow?",0
-"Battery is low",0
-"What did you eat?",0
-"I am cooking",0
-"Send the photo",0
-"Everything is good",0
-"Call me once you are done",0
-"I’ll send you the update",0
-"Don’t forget to login",0
-"I will schedule the meeting",0
-"Text me when you reach",0
-"I’m getting ready",0
-"Please check the status",0
-"The store is closed",0
-"I’m leaving now",0
-"Talk to you later",0
-"Let me know",0
-"Please finish the work",0
-"Send me the link",0
-"Any updates?",0
-"Working on the issue",0
+Please share the notes,0
+I’m working on it,0
+I will handle it,0
+What’s happening?,0
+How are things?,0
+Did you talk to him?,0
+I am travelling right now,0
+Let’s catch up later,0
+I need more information,0
+Can we do it tomorrow?,0
+Battery is low,0
+What did you eat?,0
+I am cooking,0
+Send the photo,0
+Everything is good,0
+Call me once you are done,0
+I’ll send you the update,0
+Don’t forget to login,0
+I will schedule the meeting,0
+Text me when you reach,0
+I’m getting ready,0
+Please check the status,0
+The store is closed,0
+I’m leaving now,0
+Talk to you later,0
+Let me know,0
+Please finish the work,0
+Send me the link,0
+Any updates?,0
+Working on the issue,0
