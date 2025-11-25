@@ -1,0 +1,58 @@
+Bag of Words representation shape: (654, 875)
+Accuracy: 0.9634146341463414
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.99      0.94      0.96        84
+           1       0.94      0.99      0.96        80
+
+    accuracy                           0.96       164
+   macro avg       0.96      0.96      0.96       164
+weighted avg       0.96      0.96      0.96       164
+
+[[79  5]
+ [ 1 79]]
+Accuracy: 0.9512195121951219
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.96      0.94      0.95        84
+           1       0.94      0.96      0.95        80
+
+    accuracy                           0.95       164
+   macro avg       0.95      0.95      0.95       164
+weighted avg       0.95      0.95      0.95       164
+
+[[79  5]
+ [ 3 77]]
+Accuracy: 0.9695121951219512
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.98      0.96      0.97        84
+           1       0.96      0.97      0.97        80
+
+    accuracy                           0.97       164
+   macro avg       0.97      0.97      0.97       164
+weighted avg       0.97      0.97      0.97       164
+
+[[81  3]
+ [ 2 78]]
+Accuracy: 0.9634146341463414
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.98      0.95      0.96        84
+           1       0.95      0.97      0.96        80
+
+    accuracy                           0.96       164
+   macro avg       0.96      0.96      0.96       164
+weighted avg       0.96      0.96      0.96       164
+
+[[80  4]
+ [ 2 78]]
+
+Overall Results:
+                 Logistic Regression       SVC Random Forest Naive Bayes
+TF-IDF                     0.963415  0.963415      0.957317     0.95122
+CountVectorizer            0.963415   0.95122      0.969512    0.963415
